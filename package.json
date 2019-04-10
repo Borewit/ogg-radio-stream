@@ -1,0 +1,32 @@
+{
+  "name": "ogg-radio-stream",
+  "version": "0.0.0",
+  "author": {
+    "name": "Borewit",
+    "url": "https://github.com/Borewit"
+  },
+  "private": false,
+  "scripts": {
+    "start": "node ./listen-to-stream.js"
+  },
+  "keywords": [
+    "music",
+    "metadata",
+    "meta",
+    "audio",
+    "tag",
+    "tags",
+    "ogg",
+    "stream",
+    "radio",
+    "forever"
+  ],
+  "dependencies": {
+    "music-metadata": "^3.5.3",
+    "winston": "^3.2.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Borewit/music-metadata/issues"
+  }
+}
