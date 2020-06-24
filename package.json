@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "music-metadata": "^4.8.0",
-    "winston": "^3.2.1"
+    "winston": "^3.3.3"
   },
   "license": "MIT",
   "bugs": {
