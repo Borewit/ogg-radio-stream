@@ -22,7 +22,7 @@
     "forever"
   ],
   "dependencies": {
-    "music-metadata": "^4.8.0",
+    "music-metadata": "^7.8.8",
     "winston": "^3.2.1"
   },
   "license": "MIT",
